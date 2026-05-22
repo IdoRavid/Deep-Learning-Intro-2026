@@ -1,0 +1,43 @@
+top 3 peptides:
+Rank 1:
+Peptide: IKWPWYIWL
+Predicted allele: A0101
+Confidence: 0.9984
+
+Rank 2:
+Peptide: PYRVVVLSF
+Predicted allele: A0101
+Confidence: 0.9964
+
+Rank 3:
+Peptide: LYRLFRKSN
+Predicted allele: A0101
+Confidence: 0.9956
+
+Average confidence per class:
+Class 0: 0.0930
+Class 1: 0.0482
+Class 2: 0.0436
+Class 3: 0.0831
+Class 4: 0.1334
+Class 5: 0.2205
+Class 6: 0.3783
+
+How many peptides per class:
+Counts per class:
+Class 0: 124
+Class 1: 31
+Class 2: 42
+Class 3: 86
+Class 4: 177
+Class 5: 300
+Class 6: 505
+
+Fraction per class:
+Class 0: 0.0980
+Class 1: 0.0245
+Class 2: 0.0332
+Class 3: 0.0680
+Class 4: 0.1399
+Class 5: 0.2372
+Class 6: 0.3992

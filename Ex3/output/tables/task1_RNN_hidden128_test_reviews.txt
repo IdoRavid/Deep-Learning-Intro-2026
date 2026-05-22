@@ -1,0 +1,16 @@
+
+  [Positive start + neutral tail — does the model remember early positive signal?]
+  Review : i loved this movie the acting was wonderful and the story was moving the rest of the film follows family through several ordinary scenes in ...
+  True   : positive    Predicted: negative    P(pos)=0.4127  P(neg)=0.5873  WRONG   ✗
+
+  [Negative start + neutral tail — does the model remember early negative signal?]
+  Review : i hated this movie the acting was awful and the story was painful the rest of the film follows family through several ordinary scenes in ...
+  True   : negative    Predicted: negative    P(pos)=0.4127  P(neg)=0.5873  CORRECT ✓
+
+  [Positive buildup, negative reversal at the end — does the model update on late signal?]
+  Review : the cinematography was beautiful the actors were famous the music was elegant and the scenes looked expensive but the movie was ultimately boring empty and ...
+  True   : negative    Predicted: negative    P(pos)=0.4127  P(neg)=0.5873  CORRECT ✓
+
+  [Negative buildup, positive reversal at the end — does the model update on late signal?]
+  Review : the beginning was slow awkward and confusing and expected to dislike the film but by the end it became emotional clever and surprisingly enjoyable ...
+  True   : positive    Predicted: positive    P(pos)=0.5620  P(neg)=0.4380  CORRECT ✓

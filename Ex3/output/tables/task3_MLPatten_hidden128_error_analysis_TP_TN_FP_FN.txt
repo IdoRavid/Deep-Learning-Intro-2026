@@ -1,0 +1,151 @@
+
+Review preview:
+this movie was absolutely fantastic masterpiece of cinema with brilliant acting and gripping story that kept me on the edge of my seat the entire time
+
+True label      : positive
+Predicted label : positive
+Final avg logits: pos=7.5634  neg=-7.0855
+Final probs     : pos=1.0000  neg=0.0000
+
+Per-word sub-prediction scores:
+       word  pos_logit  neg_logit  pos_prob  neg_prob
+       this  18.613001 -18.486601    1.0000    0.0000
+      movie  21.159700 -19.690901    1.0000    0.0000
+        was   6.096100  -6.358400    1.0000    0.0000
+ absolutely  19.306000 -19.448799    1.0000    0.0000
+  fantastic  15.882900 -16.158100    1.0000    0.0000
+masterpiece  24.211500 -23.422701    1.0000    0.0000
+         of  -0.062200   0.047900    0.4725    0.5275
+     cinema  14.204800 -13.464000    1.0000    0.0000
+       with   1.094400  -0.965900    0.8870    0.1130
+  brilliant  13.461200 -13.663200    1.0000    0.0000
+     acting  18.280199 -17.936399    1.0000    0.0000
+        and   9.098700  -8.718000    1.0000    0.0000
+   gripping  25.025400 -24.676500    1.0000    0.0000
+      story   2.399300  -1.700700    0.9837    0.0163
+       that  -0.292700   0.233000    0.3715    0.6285
+       kept  -0.054300   0.041700    0.4760    0.5240
+         me   1.307500  -0.585800    0.8691    0.1309
+         on   0.869600  -0.061800    0.7174    0.2826
+        the   0.342700   0.038100    0.5756    0.4244
+       edge  -0.055200   0.050300    0.4737    0.5263
+         of   0.540200   0.044100    0.6215    0.3785
+         my   0.067700  -0.036400    0.5260    0.4740
+       seat   1.149300  -0.129900    0.7823    0.2177
+        the   0.100900   0.017100    0.5209    0.4791
+     entire   2.171800   1.558700    0.6486    0.3514
+       time   1.728900  -0.750100    0.9227    0.0773
+----------------------------------------------------------------------
+
+Review preview:
+this movie was terrible and painfully boring the acting was wooden and the plot made no sense whatsoever
+
+True label      : negative
+Predicted label : negative
+Final avg logits: pos=-10.5252  neg=17.6823
+Final probs     : pos=0.0000  neg=1.0000
+
+Per-word sub-prediction scores:
+      word  pos_logit  neg_logit  pos_prob  neg_prob
+      this -20.013800  34.440601    0.0000    1.0000
+     movie -21.799101  38.369099    0.0000    1.0000
+       was  -7.350100  13.253200    0.0000    1.0000
+  terrible -17.969200  32.070702    0.0000    1.0000
+       and  -2.038200   3.681200    0.0033    0.9967
+ painfully -22.388100  37.100101    0.0000    1.0000
+    boring -22.906099  38.787800    0.0000    1.0000
+       the   0.084500   0.013600    0.5177    0.4823
+    acting -21.516600  32.968399    0.0000    1.0000
+       was -15.885000  24.943300    0.0000    1.0000
+    wooden -16.518700  24.837700    0.0000    1.0000
+       and  -2.944400   5.486000    0.0002    0.9998
+       the  -0.421300   0.351500    0.3159    0.6841
+      plot  -7.481400  13.796000    0.0000    1.0000
+      made  -2.394900   4.347600    0.0012    0.9988
+        no  -1.373300   2.153100    0.0286    0.9714
+     sense  -4.753900   7.188500    0.0000    1.0000
+whatsoever  -1.784100   4.492500    0.0019    0.9981
+----------------------------------------------------------------------
+
+Review preview:
+a masterpiece of wasted potential gripping in its absolute pointlessness with brilliant performers and fantastic score that somehow make this the most surprisingly hollow cinema experience of the year
+
+True label      : negative
+Predicted label : positive
+Final avg logits: pos=1.9672  neg=-0.8057
+Final probs     : pos=0.9412  neg=0.0588
+
+Per-word sub-prediction scores:
+         word  pos_logit  neg_logit  pos_prob  neg_prob
+            a     6.3283    -5.9196    1.0000    0.0000
+  masterpiece    -7.6843    12.8518    0.0000    1.0000
+           of     0.0888    -0.0242    0.5282    0.4718
+       wasted    -9.6678    15.5192    0.0000    1.0000
+    potential    -4.1556     6.0945    0.0000    1.0000
+     gripping    -3.8663     5.8892    0.0001    0.9999
+           in     0.0977     0.0665    0.5078    0.4922
+          its     0.4413     1.0898    0.3433    0.6567
+     absolute     4.0699    -4.4249    0.9998    0.0002
+pointlessness     7.2780    -7.3065    1.0000    0.0000
+         with     1.4682    -1.5913    0.9552    0.0448
+    brilliant    13.4875   -13.7030    1.0000    0.0000
+   performers    -0.3346     1.4666    0.1417    0.8583
+          and     4.6152    -4.0965    0.9998    0.0002
+    fantastic    12.2655   -12.8311    1.0000    0.0000
+        score    -2.5574     4.1452    0.0012    0.9988
+         that     0.0370    -0.2219    0.5644    0.4356
+      somehow    -5.7332     9.3890    0.0000    1.0000
+         make    -1.8127     3.3103    0.0059    0.9941
+         this    12.0399   -11.3810    1.0000    0.0000
+          the    -0.0150     0.0109    0.4935    0.5065
+         most     8.8828    -8.3261    1.0000    0.0000
+ surprisingly    13.6525   -13.4936    1.0000    0.0000
+       hollow     7.9941    -7.7467    1.0000    0.0000
+       cinema    -8.3882    15.2018    0.0000    1.0000
+   experience     6.4393    -6.0519    1.0000    0.0000
+           of     0.4066    -0.2287    0.6537    0.3463
+          the     0.0036    -0.0036    0.5018    0.4982
+         year     1.6679    -1.0481    0.9380    0.0620
+----------------------------------------------------------------------
+
+Review preview:
+going in expecting something terrible and wooden dreading yet another boringly predictable story was completely blown away this was not bad at all and far exceeded my painfully low expectations
+
+True label      : positive
+Predicted label : negative
+Final avg logits: pos=-5.4960  neg=9.7856
+Final probs     : pos=0.0000  neg=1.0000
+
+Per-word sub-prediction scores:
+        word  pos_logit  neg_logit  pos_prob  neg_prob
+       going  -4.215100   7.895000    0.0000    1.0000
+          in   0.248600   0.041800    0.5515    0.4485
+   expecting  -0.206800   0.481900    0.3343    0.6657
+   something -10.056500  15.643500    0.0000    1.0000
+    terrible -15.636200  23.680700    0.0000    1.0000
+         and  -7.047500  11.336700    0.0000    1.0000
+      wooden -15.851900  23.806801    0.0000    1.0000
+    dreading -13.752300  20.587500    0.0000    1.0000
+         yet  -6.403700  11.047700    0.0000    1.0000
+     another -10.427100  17.746901    0.0000    1.0000
+    boringly -12.237800  23.996901    0.0000    1.0000
+ predictable -18.742701  32.051899    0.0000    1.0000
+       story -11.446100  18.610399    0.0000    1.0000
+         was  -0.010100   1.296800    0.2130    0.7870
+  completely  -2.461600   6.848800    0.0001    0.9999
+       blown  -1.286600   5.781200    0.0009    0.9991
+        away   0.554600  -0.036900    0.6437    0.3563
+        this  -5.650700  11.900700    0.0000    1.0000
+         was  -2.913900   8.305200    0.0000    1.0000
+         not   0.385400  -0.028000    0.6019    0.3981
+         bad  -5.000100  10.949500    0.0000    1.0000
+          at   0.911600  -0.066300    0.7267    0.2733
+         all  -0.462900   0.744600    0.2301    0.7699
+         and   2.448200  -2.280400    0.9912    0.0088
+         far  -0.868200   1.518400    0.0842    0.9158
+    exceeded  -3.081200   7.008700    0.0000    1.0000
+          my  -8.641000  13.643900    0.0000    1.0000
+   painfully  -4.680400   7.781300    0.0000    1.0000
+         low  -5.473600   8.555100    0.0000    1.0000
+expectations  -2.874300   4.716400    0.0005    0.9995
+----------------------------------------------------------------------

@@ -1,0 +1,136 @@
+
+Review preview:
+this movie was not bad and actually quite enjoyable the story flowed well and the performances were decent
+
+True label      : positive
+Predicted label : negative
+Final avg logits: pos=0.1317  neg=1.8536
+Final probs     : pos=0.1516  neg=0.8484
+
+Per-word sub-prediction scores:
+        word  pos_logit  neg_logit  pos_prob  neg_prob
+        this   -10.8163  19.763599    0.0000    1.0000
+       movie    -7.2723  14.978500    0.0000    1.0000
+         was    -2.9751   8.338200    0.0000    1.0000
+         not    -0.1124   0.139100    0.4375    0.5625
+         bad    -4.8427  10.360600    0.0000    1.0000
+         and     0.1199   0.000900    0.5297    0.4703
+    actually    -0.1110   0.142600    0.4369    0.5631
+       quite    12.1643 -11.775700    1.0000    0.0000
+   enjoyable    13.0143 -12.764400    1.0000    0.0000
+         the     0.0036  -0.003600    0.5018    0.4982
+       story     3.3162  -3.696900    0.9991    0.0009
+      flowed     4.8858  -4.879600    0.9999    0.0001
+        well     1.8605  -1.848200    0.9761    0.0239
+         and     3.3614  -3.165300    0.9985    0.0015
+         the     0.0179   0.015200    0.5007    0.4993
+performances    -2.1041   4.804300    0.0010    0.9990
+        were    -2.2653   3.528100    0.0030    0.9970
+      decent    -5.8741   9.427500    0.0000    1.0000
+----------------------------------------------------------------------
+
+Review preview:
+the film was not boring at all it was surprisingly fun and engaging from start to finish
+
+True label      : positive
+Predicted label : positive
+Final avg logits: pos=2.2319  neg=-0.4930
+Final probs     : pos=0.9385  neg=0.0615
+
+Per-word sub-prediction scores:
+        word  pos_logit  neg_logit  pos_prob  neg_prob
+         the   0.135500     0.0245    0.5277    0.4723
+        film -12.640500    21.9266    0.0000    1.0000
+         was  -2.534900     7.3490    0.0001    0.9999
+         not   0.154600    -0.0009    0.5388    0.4612
+      boring -12.864600    23.3757    0.0000    1.0000
+          at   0.472900    -0.0225    0.6214    0.3786
+         all   1.696600    -1.5795    0.9636    0.0364
+          it  16.318001   -15.6690    1.0000    0.0000
+         was   9.985500   -10.0125    1.0000    0.0000
+surprisingly  14.538200   -14.6148    1.0000    0.0000
+         fun  10.087300   -10.4490    1.0000    0.0000
+         and   6.648700    -6.3732    1.0000    0.0000
+    engaging   5.092400    -4.8855    1.0000    0.0000
+        from   0.629800    -0.0288    0.6589    0.3411
+       start   0.187400     0.1790    0.5021    0.4979
+          to   0.005000    -0.0141    0.5048    0.4952
+      finish   0.030700     2.4136    0.0845    0.9155
+----------------------------------------------------------------------
+
+Review preview:
+i expected terrible movie but it was actually good and the ending was satisfying
+
+True label      : positive
+Predicted label : negative
+Final avg logits: pos=-1.1997  neg=3.8038
+Final probs     : pos=0.0067  neg=0.9933
+
+Per-word sub-prediction scores:
+      word  pos_logit  neg_logit  pos_prob  neg_prob
+         i  -9.148800  15.741000    0.0000    1.0000
+  expected   0.367200  -0.382800    0.6792    0.3208
+  terrible  -4.255000  10.212900    0.0000    1.0000
+     movie -22.000799  37.733799    0.0000    1.0000
+       but   0.332200  -0.059200    0.5966    0.4034
+        it   7.227000  -6.545600    1.0000    0.0000
+       was   3.027300  -2.554500    0.9962    0.0038
+  actually   0.217400  -0.047800    0.5659    0.4341
+      good  -0.367800   0.454200    0.3053    0.6947
+       and   3.505900  -3.260500    0.9988    0.0012
+       the   0.106900   0.018400    0.5221    0.4779
+    ending   1.022000  -0.673500    0.8449    0.1551
+       was   0.003300   2.373700    0.0855    0.9145
+satisfying   3.166700   0.243700    0.9490    0.0510
+----------------------------------------------------------------------
+
+Review preview:
+this movie was hardly good and certainly not enjoyable waste of time altogether
+
+True label      : negative
+Predicted label : negative
+Final avg logits: pos=-5.8062  neg=10.2006
+Final probs     : pos=0.0000  neg=1.0000
+
+Per-word sub-prediction scores:
+      word  pos_logit  neg_logit  pos_prob  neg_prob
+      this     0.6889   1.964500    0.2183    0.7817
+     movie    -5.7304  10.047000    0.0000    1.0000
+       was    -0.3178   1.081000    0.1980    0.8020
+    hardly    -3.5070   5.578200    0.0001    0.9999
+      good    -6.7305  10.148300    0.0000    1.0000
+       and     1.3761  -0.849100    0.9025    0.0975
+ certainly    -2.6896   4.078100    0.0011    0.9989
+       not     0.0562   0.074200    0.4955    0.5045
+ enjoyable   -27.2017  43.369999    0.0000    1.0000
+     waste   -24.6332  42.347301    0.0000    1.0000
+        of     0.2749   0.028500    0.5613    0.4387
+      time    -5.3138   9.647300    0.0000    1.0000
+altogether    -1.7523   5.093000    0.0011    0.9989
+----------------------------------------------------------------------
+
+Review preview:
+the movie was not worth watching despite the good actors and the decent cinematography
+
+True label      : negative
+Predicted label : negative
+Final avg logits: pos=-1.6333  neg=3.5025
+Final probs     : pos=0.0058  neg=0.9942
+
+Per-word sub-prediction scores:
+          word  pos_logit  neg_logit  pos_prob  neg_prob
+           the    -0.0622     0.1248    0.4534    0.5466
+         movie    -2.5804     6.4766    0.0001    0.9999
+           was    -2.0031     6.0451    0.0003    0.9997
+           not    -0.2095     0.2344    0.3908    0.6092
+         worth    -4.8670     9.0111    0.0000    1.0000
+      watching    -2.2379     4.2058    0.0016    0.9984
+       despite     1.0735    -0.9771    0.8860    0.1140
+           the    -0.0441     0.0355    0.4801    0.5199
+          good    -0.9382     1.4224    0.0862    0.9138
+        actors    -4.3837     7.7678    0.0000    1.0000
+           and     3.0001    -2.9361    0.9974    0.0026
+           the     0.0011    -0.0016    0.5007    0.4993
+        decent    -5.8584     9.4758    0.0000    1.0000
+cinematography    -3.7560     8.1502    0.0000    1.0000
+----------------------------------------------------------------------

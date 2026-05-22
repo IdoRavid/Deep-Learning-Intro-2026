@@ -1,0 +1,40 @@
+
+Review preview:
+this was not boring film and not terrible one either the actors were not wooden and the script was not bad leaving me surprisingly satisfied rather than disappointed
+
+True label      : positive
+Predicted label : negative
+Final avg logits: pos=-3.9286  neg=7.7625
+Final probs     : pos=0.0000  neg=1.0000
+
+Per-word sub-prediction scores:
+        word  pos_logit  neg_logit  pos_prob  neg_prob
+        this  -7.779200  14.171000    0.0000    1.0000
+         was  -2.363600   6.966900    0.0001    0.9999
+         not   0.312500   0.040600    0.5676    0.4324
+      boring -12.627500  23.028799    0.0000    1.0000
+        film -22.364599  38.147202    0.0000    1.0000
+         and   0.841100   0.963800    0.4694    0.5306
+         not  -0.325700   0.268400    0.3557    0.6443
+    terrible  -4.872400  11.192100    0.0000    1.0000
+         one -10.609000  18.663200    0.0000    1.0000
+      either  -0.074100   0.313900    0.4042    0.5958
+         the   0.116400   0.020400    0.5240    0.4760
+      actors -11.172600  18.633699    0.0000    1.0000
+        were  -7.184300  11.922700    0.0000    1.0000
+         not  -0.516500   0.434900    0.2786    0.7214
+      wooden -11.829500  17.836800    0.0000    1.0000
+         and  -4.661100   7.802700    0.0000    1.0000
+         the  -0.298800   0.250400    0.3660    0.6340
+      script -13.876600  23.926701    0.0000    1.0000
+         was  -2.838200   8.112800    0.0000    1.0000
+         not  -0.321200   0.338600    0.3408    0.6592
+         bad  -4.442900   9.634700    0.0000    1.0000
+     leaving  -0.188000   0.554000    0.3226    0.6774
+          me   1.449700   0.659400    0.6879    0.3121
+surprisingly   8.229200  -6.582300    1.0000    0.0000
+   satisfied  -0.016000   2.377600    0.0837    0.9163
+      rather  -2.279100   3.861500    0.0021    0.9979
+        than   0.305100   0.616700    0.4227    0.5773
+disappointed  -0.613700   3.191800    0.0218    0.9782
+----------------------------------------------------------------------

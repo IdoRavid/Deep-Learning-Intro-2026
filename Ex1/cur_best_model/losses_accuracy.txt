@@ -1,0 +1,38 @@
+Class 0 accuracy: 0.898
+Class 1 accuracy: 0.575
+Class 2 accuracy: 0.765
+Class 3 accuracy: 0.695
+Class 4 accuracy: 0.675
+Class 5 accuracy: 0.928
+Class 6 accuracy: 0.496
+
+Epoch 1: Train Loss = 1.5293, Test Loss = 1.0236
+Epoch 2: Train Loss = 0.9465, Test Loss = 0.8713
+Epoch 3: Train Loss = 0.8704, Test Loss = 0.8456
+Epoch 4: Train Loss = 0.8403, Test Loss = 0.8334
+Epoch 5: Train Loss = 0.8204, Test Loss = 0.8188
+Epoch 6: Train Loss = 0.8080, Test Loss = 0.8175
+Epoch 7: Train Loss = 0.7985, Test Loss = 0.8097
+Epoch 8: Train Loss = 0.7915, Test Loss = 0.8084
+Epoch 9: Train Loss = 0.7842, Test Loss = 0.8060
+Epoch 10: Train Loss = 0.7790, Test Loss = 0.8052
+Epoch 11: Train Loss = 0.7713, Test Loss = 0.8026
+Epoch 12: Train Loss = 0.7653, Test Loss = 0.8027
+Epoch 13: Train Loss = 0.7597, Test Loss = 0.8008
+Epoch 14: Train Loss = 0.7557, Test Loss = 0.7985
+Epoch 15: Train Loss = 0.7498, Test Loss = 0.8019
+Epoch 16: Train Loss = 0.7450, Test Loss = 0.7955
+Epoch 17: Train Loss = 0.7382, Test Loss = 0.7963
+Epoch 18: Train Loss = 0.7343, Test Loss = 0.7974
+Epoch 19: Train Loss = 0.7263, Test Loss = 0.7937
+Epoch 20: Train Loss = 0.7231, Test Loss = 0.7983
+Epoch 21: Train Loss = 0.7179, Test Loss = 0.7965
+Epoch 22: Train Loss = 0.7122, Test Loss = 0.7934
+Epoch 23: Train Loss = 0.7077, Test Loss = 0.7925
+Epoch 24: Train Loss = 0.7028, Test Loss = 0.7968
+Epoch 25: Train Loss = 0.6980, Test Loss = 0.8009
+Epoch 26: Train Loss = 0.6952, Test Loss = 0.8001
+Epoch 27: Train Loss = 0.6905, Test Loss = 0.7970
+Epoch 28: Train Loss = 0.6854, Test Loss = 0.7997
+Epoch 29: Train Loss = 0.6822, Test Loss = 0.8006
+Epoch 30: Train Loss = 0.6773, Test Loss = 0.8019
