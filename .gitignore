@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+saved_models/
+.DS_Store
+myenv/
+Ex4/examples/cache_*.npy
