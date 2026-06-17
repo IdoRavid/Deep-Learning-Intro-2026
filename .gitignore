@@ -5,3 +5,4 @@ saved_models/
 .DS_Store
 myenv/
 Ex4/examples/cache_*.npy
+Ex4/ckpts/mnist_trained.pt
